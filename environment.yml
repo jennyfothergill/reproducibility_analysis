@@ -1,0 +1,12 @@
+name: rep_analysis
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.8
+  - seaborn
+  - signac
+  - signac-flow
